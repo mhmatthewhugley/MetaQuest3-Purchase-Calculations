@@ -1,8 +1,11 @@
+# MetaQuest3 Purchase Calculations
+
 **Product Details:**
 - Product: Meta Quest 3 Mixed Reality Headset: Asgard's Wrath 2 Bundle - 128GB
 - Manufacturer's Suggested Retail Price (MSRP): $499.99
 
 **Discounts:**
+
 1. **RedCard Discount (5%):**
    - Discount Amount: 5% of MSRP
    - Formula: *RedCard Discount = MSRP \times 0.05*
@@ -14,9 +17,9 @@
    - Calculation: *($499.99 - $25) \times 0.05 = $23.75*
 
 **Subtotal after Discounts:**
-   - Subtotal: MSRP - RedCard Discount - Birthday Coupon
-   - Formula: *Subtotal = MSRP - RedCard Discount - Birthday Coupon*
-   - Calculation: *$499.99 - $25 - $23.75 = $451.24*
+   - Subtotal: MSRP - (RedCard Discount + Birthday Coupon)
+   - Formula: *Subtotal = MSRP - (RedCard Discount + Birthday Coupon)*
+   - Calculation: *$499.99 - ($25 + $23.75) = $451.24*
 
 **Tax (7%):**
    - Tax Amount: 7% of Subtotal
