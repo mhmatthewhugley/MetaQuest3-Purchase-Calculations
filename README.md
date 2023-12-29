@@ -8,13 +8,13 @@
 
 1. **RedCard Discount (5%):**
    - Discount Amount: 5% of MSRP
-   - Formula: *RedCard Discount = MSRP \times 0.05*
-   - Calculation: *$499.99 \times 0.05 = $25*
+   - Formula: *RedCard Discount = MSRP × 0.05*
+   - Calculation: *$499.99 × 0.05 = $25*
 
 2. **Birthday Coupon (5%):**
    - Discount Amount: 5% of (MSRP - RedCard Discount)
-   - Formula: *Birthday Coupon = (MSRP - RedCard Discount) \times 0.05*
-   - Calculation: *($499.99 - $25) \times 0.05 = $23.75*
+   - Formula: *Birthday Coupon = (MSRP - RedCard Discount) × 0.05*
+   - Calculation: *($499.99 - $25) × 0.05 = $23.75*
 
 **Subtotal after Discounts:**
    - Subtotal: MSRP - (RedCard Discount + Birthday Coupon)
@@ -23,8 +23,8 @@
 
 **Tax (7%):**
    - Tax Amount: 7% of Subtotal
-   - Formula: *Tax = Subtotal \times 0.07*
-   - Calculation: *$451.24 \times 0.07 = $31.59*
+   - Formula: *Tax = Subtotal × 0.07*
+   - Calculation: *$451.24 × 0.07 = $31.59*
 
 **Amount Saved:**
    - Saved Amount: RedCard Discount + Birthday Coupon
