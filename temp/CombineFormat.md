@@ -9,7 +9,7 @@ Below is an example format for the split payment section:
 **Split Payment Details:**
 
 - $300.00 limit on RedCard
-- $182.83 on [MasterCard] ending in [9876]
+- $182.83 on [(Company) MasterCard (whos)] ending in [0011]
 
 
 ## 2. Confirmation from Target Live Chat
